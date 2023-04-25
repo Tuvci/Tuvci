@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tuvci&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cometchat.com%2Fblog%2Fprogramming-memes-for-developers&psig=AOvVaw3RlFpurRhiswkrGk9MCWA2&ust=1682515228873000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDHz-aPxf4CFQAAAAAdAAAAABAE" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tuvci&icon=9&color=11)](https://visitcount.itsvg.in)
