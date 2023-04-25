@@ -11,7 +11,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Tuvci&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 😂 Random Dev Meme
-<img src="https:/https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33bf3a2121cc74f72a286_0AEnnZYBAYzmSXzyGaopjvEGKKO1yFqf_zMXqFTAT6vUDfXVPRifI3J8oBjZUl51PnRQqf2tqpjiRt33IKgg4sTiJi2YShGTN5iNUIoYbNj2HXobiQg4-k7yBiNT54EKOGYyZOR2.png" width="512px"/>
+<img src="https:/https://assets-global.website-files.com" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tuvci&icon=9&color=11)](https://visitcount.itsvg.in)
